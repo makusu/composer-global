@@ -10,7 +10,7 @@
         "phpmd/phpmd": "~2.0",
         "sebastian/phpcpd": "~2.0",
         "theseer/phpdox": "~0.6",
-        "behat/behat": "~3.0"
+        "behat/behat": "~2.5"
     }
 }
 
