@@ -1,0 +1,6 @@
+.htaccess
+*.phar
+config.json
+cache/
+vendor/
+
