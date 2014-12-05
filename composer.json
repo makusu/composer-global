@@ -9,7 +9,7 @@
         "pdepend/pdepend": "~2.0",
         "phpmd/phpmd": "~2.0",
         "sebastian/phpcpd": "~2.0",
-        "theseer/phpdox": "~0.6",
+        "theseer/phpdox": "~0.7",
         "behat/behat": "~2.5"
     }
 }
